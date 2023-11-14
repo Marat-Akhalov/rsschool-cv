@@ -43,3 +43,23 @@ function sumDigits(number) {
 
 [Simple Slider](https://codepen.io/hxchimxn/pen/poQgMYZ)
 [Form Validator](https://marat-akhalov.github.io/Validator/)
+
+### Education
+
+**Skillbox, Frontend-developer PRO**
+Relevant stack:
+
+- HTML
+- CSS
+- SCSS
+- JS
+- Node.js
+- TypeScript
+- React
+
+**Udemy, JavaScript Algorithms and Data Structures Masterclass**
+
+### Languages
+
+- English (intermediate)
+- Russian (native)
