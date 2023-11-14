@@ -38,3 +38,8 @@ function sumDigits(number) {
   return sum;
 }
 ```
+
+### Projects
+
+[Simple Slider](https://codepen.io/hxchimxn/pen/poQgMYZ)
+[Form Validator](https://marat-akhalov.github.io/Validator/)
